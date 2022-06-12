@@ -1,0 +1,25 @@
+.navigation-container {
+  background-color: #232F3E;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1rem 0.4rem;
+}
+
+.navigation-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color:	#f8f8ff;
+}
+
+.navigation-button {
+  font-size: 1.2rem;
+  background-color: #FF9900;
+  border: none;
+  padding: 0.3em 0.8em 0.3em 0.8em;
+  border-radius: 0.2em;
+  color: #232F3E
+}
+
+
+
